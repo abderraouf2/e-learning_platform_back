@@ -34,6 +34,7 @@ const corsOptions = {
     "http://www.rifk.online",
     "http://localhost:8081",
     "https://e-learning-platform-theta.vercel.app",
+    "https://www.e-learning-platform-theta.vercel.app",
     "https://e-learning-platform-theta.vercel.app/",
   ],
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
